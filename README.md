@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Sejam muito bem-vindos ao meu perfil 🚀</h1>
+<p align="center">
+  Estudante de Engenharia de Software na Univille • Joinville,SC
+  </p>
+  
+  ---
+  
+ ### 🧑🏼‍💻 Sobre mim 
+ - 🎓 Graduação 2025-2030 - (Eng. Software)
+ - 📚 Atualmente aprendendo **HTML**, **CSS** e **Python**
+ - 🛠️ Construindo meus primeiros projetos
 
-<!--
-**martinsnick-dev/martinsnick-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Tecnologias que estou aprendendo 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Status
+<p align="center">
+<img height="160em" scr="https://github-readme-stats.vercel.app/api?username=martinsnick-dev&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsnick-dev&layout=compact&theme=tokyonight"/>
+</p>
