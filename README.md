@@ -6,7 +6,7 @@
   ---
   
  ### 🧑🏼‍💻 Sobre mim 
- - 🎓 Graduação 2025-2030 - (Eng. Software)
+ - 🎓 Graduação Eng. Software > 2026-2030 
  - 📚 Atualmente aprendendo **HTML**, **CSS** e **Python**
  - 🛠️ Construindo meus primeiros projetos
 
